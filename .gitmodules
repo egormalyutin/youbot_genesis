@@ -1,0 +1,4 @@
+[submodule "subprojects/youbot_description"]
+	path = subprojects/youbot_description
+	url = git@github.com:egormalyutin/youbot_description.git
+	branch = genesis
